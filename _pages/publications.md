@@ -6,6 +6,8 @@ author_profile: true
 If you a need a copy of my papers just send me an email, some of them have pre-print versions in my RG profile.
 
 **Published**<br>
+[Water-rock interaction and magmatic contribution in thermal fluids of the Southern Volcanic Zone, Chile: Insights from Li, B and Sr isotopes]([https://www.sciencedirect.com/science/article/pii/S0895981124002062](https://www.sciencedirect.com/science/article/pii/S0377027324001410)<br> S. Rivas, P. Sanchez-Alfaro, F. Alvarez-Amado, **A. Perez-Fodich**, L. Godfrey, P. Becerra, D. Tardani, P. Perez-Flores, F. Aron, C. Fica, C. Munoz-Saez, R. Mathur. _Journal of Volcanology and Geothermal Research_. **2024**, 458, 108149.
+
 [Strontium isotopic composition of the Mesozoic sedimentary formations of the southern Central Andes (33°–34°S) and its paleogeographic implications](https://www.sciencedirect.com/science/article/pii/S0895981124002062)<br> J. González-Cariqueo*, M. Pfeiffer, M. Peña, M. Macchioli Grande, **A. Perez-Fodich**. _Journal of South American Earth Sciences_. **2024**, 142, 104984.
 
 [The effect of weathering in runoff-to-groundwater partitioning in the Island of Hawai’i: perspectives for landscape evolution](https://doi.org/10.1016/j.epsl.2024.118687) <br> **A. Perez-Fodich**, L.A. Derry, J. Marçais, M.T. Walter. _Earth and Planetary Science Letters_. **2024**, 635, 118687.
