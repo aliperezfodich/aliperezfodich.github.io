@@ -13,15 +13,16 @@ Research interests: Hydrology, Geochemistry, Hydrogeology.
 
 ---
 
-<img style="float: center;" src="/images/vbust_web.png">
-<br><b><a href="https://bit.ly/3tsk7sT">Valeria Bustamante Perez</a></b>, UChile MSc. student.<br>
-At the moment I am studying the silica precipitation processes in the El Tatio geothermal field in the Chilean Altiplano, considering the Ge/Si ratios in the fluids. My interests go to the areas of Geochemistry, Paleoclimate, Volcanology and Geothermal Research, in persuit to link these different branches and improve the understanding of environmental geology.
 
 ---
-<b><a href="mailto: gabriel.arceurrea@gmail.com ">Gabriel Arce Urrea</a></b>, UChile Honors student. Geochemistry of sedimentary pyrites.
+
 
 ---
 **Alumni**
+
+<br><b><a href="https://bit.ly/3tsk7sT">Valeria Bustamante Perez</a></b>, UChile MSc. student.<br>MSc. Geology thesis (2023) on Ge/Si ratios in sinter deposits. Job market.
+
+<b><a href="mailto: gabriel.arceurrea@gmail.com ">Gabriel Arce Urrea</a></b>, Honors thesis (2022) on geochemistry of sedimentary pyrites. Job market.
 
 <b><a href="https://www.linkedin.com/in/amanda-sof%C3%ADa-peña-584731202/">Amanda Peña Echeverria</a></b>, MSc. Geology thesis (2023) on weathering fluxes in the Southern Andes. Geochemist at Aquist Consultants.
 
