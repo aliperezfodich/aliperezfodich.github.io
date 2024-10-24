@@ -20,9 +20,9 @@ Research interests: Hydrology, Geochemistry, Hydrogeology.
 ---
 **Alumni**
 
-<br><b><a href="https://bit.ly/3tsk7sT">Valeria Bustamante Perez</a></b>, UChile MSc. student.<br>MSc. Geology thesis (2023) on Ge/Si ratios in sinter deposits. Geochemist at Amphos 21 Consultants.
+<br><b><a href="https://bit.ly/3tsk7sT">Valeria Bustamante Perez</a></b>, UChile MSc. student.<br>MSc. Geology thesis (2024) on Ge/Si ratios in sinter deposits. Geochemist at Amphos 21 Consultants.
 
-<b><a href="mailto: gabriel.arceurrea@gmail.com ">Gabriel Arce Urrea</a></b>, Honors thesis (2022) on geochemistry of sedimentary pyrites. Job market.
+<b><a href="mailto: gabriel.arceurrea@gmail.com ">Gabriel Arce Urrea</a></b>, Honors thesis (2024) on geochemistry of sedimentary pyrites. Job market.
 
 <b><a href="https://www.linkedin.com/in/amanda-sof%C3%ADa-peña-584731202/">Amanda Peña Echeverria</a></b>, MSc. Geology thesis (2023) on weathering fluxes in the Southern Andes. Geochemist at Aquist Consultants.
 
