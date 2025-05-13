@@ -6,6 +6,8 @@ author_profile: true
 If you a need a copy of my papers just send me an email, some of them have pre-print versions in my RG profile.
 
 **Published**<br>
+[Solute generation and transport in semiarid mountain catchments of the Central Chilean Andes](https://link.springer.com/article/10.1007/s41748-025-00642-x)<br> M. Macchioli-Grande*, Soto-Maass, A.*, Pfeiffer, M., Peña-Echeverría, A.*, **Perez-Fodich, A.** _Earth Systems and Environment_, **2025**, 10.1007/s41748-025-00642-x.
+
 [Laterite and supergene copper deposits; ore deposits formed in the Critical Zone](https://www.sciencedirect.com/science/article/pii/B9780323997621000127)<br> S.A. Gleeson, **A. Perez-Fodich**, M. Reich. _Treatise in Geochemistry 3rd Edition_, **2025**, 803-836.
 
 [Water-rock interaction and magmatic contribution in thermal fluids of the Southern Volcanic Zone, Chile: Insights from Li, B and Sr isotopes](https://www.sciencedirect.com/science/article/pii/S0377027324001410)<br> S. Rivas, P. Sanchez-Alfaro, F. Alvarez-Amado, **A. Perez-Fodich**, L. Godfrey, P. Becerra, D. Tardani, P. Perez-Flores, F. Aron, C. Fica, C. Munoz-Saez, R. Mathur. _Journal of Volcanology and Geothermal Research_. **2024**, 458, 108149.
