@@ -6,9 +6,13 @@ author_profile: true
 If you a need a copy of my papers just send me an email, some of them have pre-print versions in my RG profile.
 
 **Published**<br>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S0169555X25003708" target="_blank" rel="noopener">
+Shifting sediment sources in a changing climate: provenance and transfer in the semi-arid Andes in central Chile</a><br>
+T. Villaseñor, I. Contreras, V. Flores-Aqueveque, M. Pfeiffer, A. Serey, R. Valenzuela, <strong>A. Perez-Fodich</strong> <em>Geomorphology</em>, <strong>2025</strong>, 10.1016/j.geomorph.2025.109960.</p>
+
 <p><a href="https://link.springer.com/article/10.1007/s41748-025-00642-x" target="_blank" rel="noopener">
 Solute generation and transport in semiarid mountain catchments of the Central Chilean Andes</a><br>
-M. Macchioli-Grande*, Soto-Maass, A.*, Pfeiffer, M., Peña-Echeverría, A.*, <strong>Perez-Fodich, A.</strong> <em>Earth Systems and Environment</em>, <strong>2025</strong>, 10.1007/s41748-025-00642-x.</p>
+M. Macchioli-Grande*, A. Soto-Maass*, M. Pfeiffer, A. Peña-Echeverría*, <strong>A. Perez-Fodich</strong> <em>Earth Systems and Environment</em>, <strong>2025</strong>, 10.1007/s41748-025-00642-x.</p>
 
 <p><a href="https://www.sciencedirect.com/science/article/pii/B9780323997621000127" target="_blank" rel="noopener">
 Laterite and supergene copper deposits; ore deposits formed in the Critical Zone</a><br>
