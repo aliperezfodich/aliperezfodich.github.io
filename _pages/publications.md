@@ -6,6 +6,10 @@ author_profile: true
 If you a need a copy of my papers just send me an email, some of them have pre-print versions in my RG profile.
 
 **Published**<br>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S0012821X25004388" target="_blank" rel="noopener">
+The contribution of continental volcanic arcs to global weathering fluxes: Insights from the Southern Andes</a><br>
+A. Peña-Echeverría*, D. Tardani, P. Louvat,G.L. Jessen, <strong>A. Perez-Fodich</strong>. <em>Earth and Planetary Science Letters</em>, <strong>2025</strong>, 671, 119640.</p>
+
 <p><a href="https://www.sciencedirect.com/science/article/pii/S0169555X25003708" target="_blank" rel="noopener">
 Shifting sediment sources in a changing climate: provenance and transfer in the semi-arid Andes in central Chile</a><br>
 T. Villaseñor, I. Contreras, V. Flores-Aqueveque, M. Pfeiffer, A. Serey, R. Valenzuela, <strong>A. Perez-Fodich</strong>. <em>Geomorphology</em>, <strong>2025</strong>, 10.1016/j.geomorph.2025.109960.</p>
