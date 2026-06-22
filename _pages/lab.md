@@ -11,11 +11,12 @@ Concentration-discharge patterns in volcanic watersheds.
 Research interests: Hydrology, Geochemistry, Hydrogeology.
 
 ---
-**Alumni**<br>
+**Alumni**<br><br>
+
 <img style="float: center;" src="/images/macchioli.jpeg" width = "200" height = "200">
 <br><b><a href="https://gpenare.wixsite.com/marcos-macchioli">Marcos Macchioli Grande</a></b>, Postdoctoral Fellow. <br>MSc. Concentration-discharge patterns in semi-arid catchments. Assistant Professor at Universidad de O'Higgins.
 
-<br><b><a href="https://bit.ly/3tsk7sT">Valeria Bustamante Perez</a></b>, UChile MSc. student.<br>MSc. Geology thesis (2024) on Ge/Si ratios in sinter deposits. Geochemist at Amphos 21 Consultants.
+<b><a href="https://bit.ly/3tsk7sT">Valeria Bustamante Perez</a></b>, UChile MSc. student.<br>MSc. Geology thesis (2024) on Ge/Si ratios in sinter deposits. Geochemist at Amphos 21 Consultants.
 
 <b><a href="mailto: gabriel.arceurrea@gmail.com ">Gabriel Arce Urrea</a></b>, Honors thesis (2024) on geochemistry of sedimentary pyrites. Job market.
 
