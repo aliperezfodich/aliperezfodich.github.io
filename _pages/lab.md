@@ -13,14 +13,14 @@ Research interests: Hydrology, Geochemistry, Hydrogeology.
 ---
 **Alumni**<br><br>
 
-<img style="float: center;" src="/images/macchioli.jpeg" width = "200" height = "200">
+<img style="float: center;" src="/images/macchioli.jpeg" width = "180" height = "180">
 <br><b><a href="https://gpenare.wixsite.com/marcos-macchioli">Marcos Macchioli Grande</a></b>, Postdoctoral Fellow. <br>MSc. Concentration-discharge patterns in semi-arid catchments. Assistant Professor at Universidad de O'Higgins.
 
 <b><a href="https://bit.ly/3tsk7sT">Valeria Bustamante Perez</a></b>, UChile MSc. student.<br>MSc. Geology thesis (2024) on Ge/Si ratios in sinter deposits. Geochemist at Amphos 21 Consultants.
 
 <b><a href="mailto: gabriel.arceurrea@gmail.com ">Gabriel Arce Urrea</a></b>, Honors thesis (2024) on geochemistry of sedimentary pyrites. Job market.
 
-<b><a href="https://www.linkedin.com/in/amanda-sof%C3%ADa-peña-584731202/">Amanda Peña Echeverria</a></b>, MSc. Geology thesis (2023) on weathering fluxes in the Southern Andes. Geochemist at Aquist Consultants.
+<b><a href="https://www.linkedin.com/in/amanda-sof%C3%ADa-peña-584731202/">Amanda Peña Echeverria</a></b>, MSc. Geology thesis (2023) on weathering fluxes in the Southern Andes. PhD student at ETH.
 
 <b><a href="mailto: catalina.saldias@alumnos.uach.cl ">Catalina Saldías Inocentti</a></b>, UACh Honors thesis (2022) on Water-dating and C-isotope geochemistry of hydrothermal systems. MSc student at Karlsruhe University.
 
