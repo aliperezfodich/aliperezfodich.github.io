@@ -6,9 +6,8 @@ author_profile: true
 
 ---
 
-<img style="float: center;" src="/images/macchioli.jpeg" width = "290" height = "290">
-<br><b><a href="https://www.researchgate.net/profile/Marcos-Macchioli-Grande-2">Marcos Macchioli Grande</a></b>, Postdoctoral Fellow<br>
-Concentration-discharge patterns in semi-arid catchments.
+<br><b>Javiera Gutiérrez</a></b>, MSc. Student at UChile<br>
+Concentration-discharge patterns in volcanic watersheds.
 Research interests: Hydrology, Geochemistry, Hydrogeology.
 
 ---
@@ -19,6 +18,8 @@ Research interests: Hydrology, Geochemistry, Hydrogeology.
 
 ---
 **Alumni**
+<img style="float: center;" src="/images/macchioli.jpeg" width = "200" height = "200">
+<br><b><a href="https://gpenare.wixsite.com/marcos-macchioli">Marcos Macchioli Grande</a></b>, Postdoctoral Fellow. <br>MSc. Concentration-discharge patterns in semi-arid catchments. Assistant Professor at Universidad de O'Higgins.
 
 <br><b><a href="https://bit.ly/3tsk7sT">Valeria Bustamante Perez</a></b>, UChile MSc. student.<br>MSc. Geology thesis (2024) on Ge/Si ratios in sinter deposits. Geochemist at Amphos 21 Consultants.
 
