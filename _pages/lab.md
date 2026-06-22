@@ -14,7 +14,7 @@ Research interests: Hydrology, Geochemistry, Hydrogeology.
 **Alumni**<br><br>
 
 <img style="float: center;" src="/images/macchioli.jpeg" width = "180" height = "180">
-<br><b><a href="https://gpenare.wixsite.com/marcos-macchioli">Marcos Macchioli Grande</a></b>, Postdoctoral Fellow. <br>MSc. Concentration-discharge patterns in semi-arid catchments. Assistant Professor at Universidad de O'Higgins.
+<br><b><a href="https://gpenare.wixsite.com/marcos-macchioli">Marcos Macchioli Grande</a></b>, Postdoctoral Fellow. <br>MSc. Concentration-discharge patterns in semi-arid catchments. Assistant Professor at Universidad de O'Higgins.<br>
 
 <b><a href="https://bit.ly/3tsk7sT">Valeria Bustamante Perez</a></b>, UChile MSc. student.<br>MSc. Geology thesis (2024) on Ge/Si ratios in sinter deposits. Geochemist at Amphos 21 Consultants.
 
